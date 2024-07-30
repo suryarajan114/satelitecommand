@@ -1,4 +1,4 @@
-#Pesonal info: NAME : SANKARAPANDI S ROLL NUMBER : 214322 EMAIL : sankarapandioff@gmail.com COLLEGE : KLN college of engineering CONTACT : 8610991093
+#Pesonal info: NAME : SURYA KR ROLL NUMBER : 214114 EMAIL : surya19062004@gmail.com COLLEGE : KLN college of engineering CONTACT : 9715604030
 Satellite Command System Programming Exercise
 Problem Statement
 You are tasked with developing a Satellite Command System that simulates controlling a satellite in orbit. The satellite starts in a default
