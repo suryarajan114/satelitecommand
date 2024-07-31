@@ -4,7 +4,6 @@ public class Main {
 
         RotateCommand rotateCommand = new RotateCommand(satellite);
         ActivatePanelsCommand activatePanelsCommand = new ActivatePanelsCommand(satellite);
-        DeactivatePanelsCommand deactivatePanelsCommand = new DeactivatePanelsCommand(satellite);
         CollectDataCommand collectDataCommand = new CollectDataCommand(satellite);
 
         // Example command execution
